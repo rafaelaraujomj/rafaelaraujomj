@@ -27,7 +27,6 @@ The purpose of this repository goes beyond documenting my progress — it’s ab
   &nbsp;<img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   &nbsp;<img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   &nbsp;<img align="center" alt="spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
-  &nbsp;<img align="center" alt="hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   
 
 
