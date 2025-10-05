@@ -1,7 +1,7 @@
 ## Hey, my name is Rafael 👋 Welcome to my Data Science Repository!🌟 
 
 
-Hello! I am a Computer Science student currently specializing in the field of Data Science. I am passionate about turning data into valuable insights and solving complex problems through data analysis and modeling.
+I am a Computer Science student currently specializing in the field of Data Science. I am passionate about turning data into valuable insights and solving complex problems through data analysis and modeling.
 
 Currently, I am deepening my knowledge of tools such as Python, Pandas, NumPy, Scikit-learn, TensorFlow, and other essential libraries for data analysis and Machine Learning.
 
