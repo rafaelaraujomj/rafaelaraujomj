@@ -1,15 +1,9 @@
-## Hey, my name is Rafael 👋 Welcome to my Data Science Repository!🌟 
+## Hey, my name is Rafael 👋 Welcome to my Repository!🌟 
 
 
-I am a Computer Science student currently specializing in the field of Data Science. I am passionate about turning data into valuable insights and solving complex problems through data analysis and modeling.
+I am a Computer Science graduate currently transitioning my career from Data Science to Java Development. My journey began with a passion for turning complex data into valuable insights, and today I apply that analytical mindset to building robust, scalable, and efficient software.
 
-Currently, I am deepening my knowledge of tools such as Python, Pandas, NumPy, Scikit-learn, TensorFlow, and other essential libraries for data analysis and Machine Learning.
-
-In this portfolio, you will find projects that reflect my learning journey, applying statistical techniques, data visualization, and predictive models to generate practical solutions.
-
-Feel free to explore my projects and get in touch.
-
-
+Currently, I am deepening my expertise in the Java ecosystem, focusing on Spring Framework, Clean Code, and SOLID principles. My unique edge lies in bridging the gap between the statistical precision of Data Science and the structural power of backend development.
 # 
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
